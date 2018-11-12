@@ -17,7 +17,7 @@
 require_relative 'constants'
 require_relative 'resourcehandler'
 require_relative 'util'
-require 'CSV'
+require 'csv'
 
 module BigML
 
